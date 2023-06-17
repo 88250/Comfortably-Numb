@@ -1,4 +1,5 @@
 **最新版本请关注 https://github.com/siyuan-note/theme-sample**
+
 **Please follow https://github.com/siyuan-note/theme-sample for the latest version**
 
 # Comfortably Numb
